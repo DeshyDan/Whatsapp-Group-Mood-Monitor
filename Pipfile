@@ -5,6 +5,11 @@ name = "pypi"
 
 [packages]
 selenium = "*"
+transformers = "*"
+scipy = "*"
+torch = "*"
+torchvision = "*"
+pandas = "*"
 
 [dev-packages]
 

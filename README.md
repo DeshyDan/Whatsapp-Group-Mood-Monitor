@@ -23,6 +23,8 @@ Inorder to solve, I could write a script that summarizes the conversations that 
 - Use data to plot changes in the mood in a given period. (More insights could be generated. Check [TO DO Section](#to-dos-🤔🤔))
 
 For a more indepth explanation of the world read this **[DOC](docs/README.md)**
+## Current limitations
+- Scraping Whatsapp is not an easy workout. Currently, the number of chats scraped is limited to the chats that are loaded without syncing. This can be solved by waiting for the client to sync with server.
 
 ## To Dos 🤔🤔
 

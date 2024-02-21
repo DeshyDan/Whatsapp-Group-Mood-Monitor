@@ -1,5 +1,8 @@
 # Whatsapp Mood Monitor
 
+### NOTE: I will no longer be maintaining this because inspecting the elements I want to work with is tiring and takes a lot of manual work.
+
+
 This is a tool for analyising the mood of a Whatsapp group between a certain period of time. 
 
 ## Table of contents
